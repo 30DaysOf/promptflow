@@ -1,0 +1,10 @@
+# jupyter-codespaces base
+ipywidgets
+
+# promptflow
+azure-cli
+promptflow[azure]
+promptflow-tools
+
+# Added for OpenAI
+openai
